@@ -1,2 +1,4 @@
-# Tugas3
-Tugas 3 Tentang membuat Web Profil
+# toniismail12.github.io
+
+simple profile with bootstrap
+https://toniismail12.github.io
